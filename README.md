@@ -1,4 +1,6 @@
-## Hi there 👋
+## Profile
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayashida-atsushi&hide=TeX&layout=compact&theme=dracula)
+
 
 <!--
 **hayashida-atsushi/hayashida-atsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
